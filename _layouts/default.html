@@ -29,6 +29,11 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+            
+            {% for page in site.pages %}
+            <a href="{{ site.baseurl }}{{ page.url }}">page.title</a>
+            {% endfor %}
+            
             <a href="{{ site.baseurl }}/contact">Contact</a>
           </nav>
         </header>
