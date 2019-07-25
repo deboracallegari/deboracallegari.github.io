@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About 
+
+I am Debora and I am studying Data Science and dreaming to become a good professional!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Vancouver, BC
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[deboracallegari.ca@gmail.com](mailto:deboracallegari.ca@gmail.com)
